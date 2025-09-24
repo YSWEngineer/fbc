@@ -176,6 +176,19 @@ files.map(&:length)
 - 7 - 3 引数の便利な機能を使う
 </details>
 
+<details open><summary>2025-09-24</summary>
+  
+#### 本日の取り組み
+📕 書籍『ゼロからわかる Ruby超入門』
+- 7 - 3 引数の便利な機能を使う
+- 7 - 4 変数には見える範囲がある
+- 練習問題 CHAPTER 7
+#### 次回の目標
+📕 書籍『ゼロからわかる Ruby超入門』
+- 練習問題 CHAPTER 7
+</details>
+
+
 
 
 
