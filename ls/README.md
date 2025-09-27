@@ -207,6 +207,30 @@ files.map(&:length)
 - 練習問題 CHAPTER 7
 </details>
 
+<details open><summary>2025-09-26</summary>
+  
+#### 本日の取り組み
+📕 書籍『ゼロからわかる Ruby超入門』
+- 練習問題 CHAPTER 7
+#### 次回の目標
+📕 書籍『ゼロからわかる Ruby超入門』
+- 練習問題 CHAPTER 7
+</details>
+
+<details open><summary>2025-09-27</summary>
+  
+#### 本日の取り組み
+Ruby の基礎
+- 「戻り値」と「出力」の違いの整理
+📕 書籍『ゼロからわかる Ruby超入門』
+- 練習問題 CHAPTER 7
+- 練習問題 CHAPTER 2
+#### 次回の目標
+📕 書籍『ゼロからわかる Ruby超入門』
+- 練習問題 CHAPTER 3
+</details>
+
+
 
 
 
