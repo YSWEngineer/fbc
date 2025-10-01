@@ -230,6 +230,21 @@ Ruby の基礎
 - 練習問題 CHAPTER 3
 </details>
 
+<details open><summary>2025-10-01</summary>
+  
+#### 本日の取り組み
+📕 書籍『ゼロからわかる Ruby超入門』
+- CHAPTER 3 処理の流れを変える
+- CHAPTER 4 まとめて扱う - 配列
+- 練習問題 CHAPTER 3
+- 練習問題 CHAPTER 4
+#### 次回の目標
+📕 書籍『ゼロからわかる Ruby超入門』
+- CHAPTER 5 便利な道具を使う
+-   練習問題 CHAPTER 5
+</details>
+
+
 
 
 
