@@ -241,8 +241,21 @@ Ruby の基礎
 #### 次回の目標
 📕 書籍『ゼロからわかる Ruby超入門』
 - CHAPTER 5 便利な道具を使う
--   練習問題 CHAPTER 5
+- 練習問題 CHAPTER 5
 </details>
+
+<details open><summary>2025-10-02</summary>
+  
+#### 本日の取り組み
+📕 書籍『ゼロからわかる Ruby超入門』
+- CHAPTER 5 便利な道具を使う
+- 練習問題 CHAPTER 5
+#### 次回の目標
+📕 書籍『ゼロからわかる Ruby超入門』
+- CHAPTER 6 組で扱う - ハッシュ
+- 練習問題 CHAPTER 6
+</details>
+
 
 
 
