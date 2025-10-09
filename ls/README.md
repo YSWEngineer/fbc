@@ -309,6 +309,22 @@ Ruby の基礎
 - 練習問題 CHAPTER 8
 </details>
 
+<details open><summary>2025-10-09</summary>
+  
+#### 本日の取り組み
+📕 書籍『ゼロからわかる Ruby超入門』
+- CHAPTER 6 組で扱う - ハッシュ
+- 練習問題 CHAPTER 6
+  - 手書きでコードを書く
+- CHAPTER 8 部品をつくる - クラス
+- 練習問題 CHAPTER 8
+#### 次回の目標
+📕 書籍『ゼロからわかる Ruby超入門』
+- CHAPTER 8 部品をつくる - クラス
+- 練習問題 CHAPTER 8
+</details>
+
+
 
 
 
